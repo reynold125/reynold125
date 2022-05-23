@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Reynold, nice to see you here!
+
+- 🎓 Computer Science @ [Universidade Federal de São Carlos](https://www2.ufscar.br/).
+- 🔭 I’m currently working on as Data Scientist Intern for @ [americanas s.a](www.americanas.com.b) 
+- 🌱 I'm constantly learning about machine learning and data analysis
+
+If you're interested knowing more about my work career so far or wanted to talk, reach out my [linkedin account](https://www.linkedin.com/in/reynold-navarro-mazo/)
 
 <!--
 **reynold125/reynold125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
