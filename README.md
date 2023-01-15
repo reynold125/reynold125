@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Reynold, nice to see you here!
 
 - 🎓 Computer Science @ [Universidade Federal de São Carlos](https://www2.ufscar.br/).
-- 🔭 I’m currently working as Data Scientist Intern for @ [americanas s.a](www.americanas.com.b) 
+- 🔭 I’m currently working as Data Scientist for @ [americanas s.a](www.americanas.com.b) 
 - 🌱 I'm constantly learning about machine learning and data analysis
 
 If you're interested knowing more about my work career so far or wanted to talk, reach out my [linkedin account](https://www.linkedin.com/in/reynold-navarro-mazo/)
